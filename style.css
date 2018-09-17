@@ -26,6 +26,7 @@ position:fixed;
 margin-left: 30px;
   margin-top: 300px;
   position: fixed;
+  font-family: monospace;
 }
 #usrform{
 margin-left: 150px;
